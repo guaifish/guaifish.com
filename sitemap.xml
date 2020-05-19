@@ -2,6 +2,8 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>https://guaifish.com/</loc><lastmod>2020-05-20T01:16:14&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://guaifish.com/posts/</loc><lastmod>2020-05-20T01:16:14&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://guaifish.com/posts/hugo-build-blog/</loc><lastmod>2020-05-20T01:16:14&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://guaifish.com/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://guaifish.com/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://guaifish.com/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
