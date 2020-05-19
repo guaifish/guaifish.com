@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>静态网站 - Tag - GuaiFish&#39;s Blog</title>
+        <link>https://guaifish.com/tags/%E9%9D%99%E6%80%81%E7%BD%91%E7%AB%99/</link>
+        <description>静态网站 - Tag - GuaiFish&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>guaifish@foxmail.com (GuaiFish)</managingEditor>
+            <webMaster>guaifish@foxmail.com (GuaiFish)</webMaster><lastBuildDate>Wed, 20 May 2020 01:16:14 &#43;0800</lastBuildDate><atom:link href="https://guaifish.com/tags/%E9%9D%99%E6%80%81%E7%BD%91%E7%AB%99/" rel="self" type="application/rss+xml" /><item>
+    <title>使用 Hugo 搭建静态博客网站</title>
+    <link>https://guaifish.com/posts/hugo-build-blog/</link>
+    <pubDate>Wed, 20 May 2020 01:16:14 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://guaifish.com/posts/hugo-build-blog/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
+</rss>
