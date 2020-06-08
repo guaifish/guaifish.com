@@ -4,15 +4,29 @@
         <link>https://guaifish.com/posts/</link>
         <description>All Posts | GuaiFish&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>guaifish@foxmail.com (GuaiFish)</managingEditor>
-            <webMaster>guaifish@foxmail.com (GuaiFish)</webMaster><lastBuildDate>Thu, 28 May 2020 14:37:42 &#43;0800</lastBuildDate><atom:link href="https://guaifish.com/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>Python 基础知识笔记</title>
-    <link>https://guaifish.com/posts/python-basis/</link>
+            <webMaster>guaifish@foxmail.com (GuaiFish)</webMaster><lastBuildDate>Wed, 03 Jun 2020 21:52:47 &#43;0800</lastBuildDate><atom:link href="https://guaifish.com/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>在 Ubuntu 虚拟机上搭建 Gitea 服务器</title>
+    <link>https://guaifish.com/posts/deploy-gitea/</link>
+    <pubDate>Wed, 03 Jun 2020 21:52:47 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://guaifish.com/posts/deploy-gitea/</guid>
+    <description><![CDATA[Gitea 是一款极易搭建的自助 Git 服务, 有点像易操作版的 Gitlab. 今天我将尝试使用 Ubuntu 服务器搭建一个 Gitea 服务 搭建环境 Oracle VirtualBox + Ubuntu 20.04 网络连接方式设置为桥接网卡, 高级 -&gt; 混]]></description>
+</item><item>
+    <title>Git 备忘录</title>
+    <link>https://guaifish.com/posts/git-cheatsheet/</link>
+    <pubDate>Tue, 02 Jun 2020 09:32:16 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://guaifish.com/posts/git-cheatsheet/</guid>
+    <description><![CDATA[推送 Tag 到远程仓库: git push origin --tags 修改 commit 信息: git commit --amend]]></description>
+</item><item>
+    <title>Python 备忘录</title>
+    <link>https://guaifish.com/posts/python-cheatsheet/</link>
     <pubDate>Thu, 28 May 2020 14:37:42 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>https://guaifish.com/posts/python-basis/</guid>
-    <description><![CDATA[获取当前模块目录 1 2 3 import os module_dir = os.path.dirname(os.path.abspath(__file__)) 获取程序运行目录 1 2 3 import os base_dir = os.path.dirname(os.path.abspath(__name__))]]></description>
+    <guid>https://guaifish.com/posts/python-cheatsheet/</guid>
+    <description><![CDATA[获取当前模块目录: os.path.dirname(os.path.abspath(__file__)) 获取程序运行目录: os.path.dirname(os.path.abspath(__name__))]]></description>
 </item><item>
-    <title>使用 pandas 连接数据库</title>
+    <title>使用 Pandas 连接数据库</title>
     <link>https://guaifish.com/posts/pandas-connect-database/</link>
     <pubDate>Mon, 25 May 2020 17:45:48 &#43;0800</pubDate>
     <author>Author</author>
@@ -24,7 +38,7 @@
     <pubDate>Mon, 25 May 2020 01:11:19 &#43;0800</pubDate>
     <author>Author</author>
     <guid>https://guaifish.com/posts/docker-speed-up/</guid>
-    <description><![CDATA[使用阿里云镜像加速器, 网址 复制加速器地址 修改 Docker 的镜像 URL 1 2 3 &#34;registry-mirrors&#34;: [ &#34;https://registry.docker-cn.com&#34; # 改为加速器的地址 ]]]></description>
+    <description><![CDATA[使用阿里云镜像加速器, 网址 复制加速器地址 Ubuntu 系统通过修改daemon配置文件/etc/docker/daemon.json来使用加速器 1 2 3 4]]></description>
 </item><item>
     <title>使用 Hugo 搭建静态博客网站</title>
     <link>https://guaifish.com/posts/hugo-build-blog/</link>

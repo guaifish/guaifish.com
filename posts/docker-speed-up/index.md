@@ -1,15 +1,20 @@
 # Docker 镜像加速
 
 
-1. 使用阿里云镜像加速器, [网址](https://cr.console.aliyun.com/cn-hangzhou/instances/mirrors)
+* 使用阿里云镜像加速器, [网址](https://cr.console.aliyun.com/cn-hangzhou/instances/mirrors)
 
-2. 复制加速器地址
+* 复制加速器地址
 
-3. 修改 Docker 的镜像 URL
+* Ubuntu 系统通过修改daemon配置文件`/etc/docker/daemon.json`来使用加速器
 
-```json
-"registry-mirrors": [
-    "https://registry.docker-cn.com"  # 改为加速器的地址
-  ]
+```bash
+sudo mkdir -p /etc/docker
+sudo tee /etc/docker/daemon.json <<-'EOF'
+{
+  "registry-mirrors": ["https://****.mirror.aliyuncs.com"]  # 改成自己加速地址
+}
+EOF
+sudo systemctl daemon-reload
+sudo systemctl restart docker
 ```
 

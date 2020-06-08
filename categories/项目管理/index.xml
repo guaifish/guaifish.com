@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>项目管理 - Category - GuaiFish&#39;s Blog</title>
+        <link>https://guaifish.com/categories/%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86/</link>
+        <description>项目管理 - Category - GuaiFish&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>guaifish@foxmail.com (GuaiFish)</managingEditor>
+            <webMaster>guaifish@foxmail.com (GuaiFish)</webMaster><lastBuildDate>Tue, 02 Jun 2020 09:32:16 &#43;0800</lastBuildDate><atom:link href="https://guaifish.com/categories/%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86/" rel="self" type="application/rss+xml" /><item>
+    <title>Git 备忘录</title>
+    <link>https://guaifish.com/posts/git-cheatsheet/</link>
+    <pubDate>Tue, 02 Jun 2020 09:32:16 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://guaifish.com/posts/git-cheatsheet/</guid>
+    <description><![CDATA[推送 Tag 到远程仓库: git push origin --tags 修改 commit 信息: git commit --amend]]></description>
+</item></channel>
+</rss>
