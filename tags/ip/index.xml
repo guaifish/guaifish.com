@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>ip - Tag - GuaiFish&#39;s Blog</title>
+        <link>https://guaifish.com/tags/ip/</link>
+        <description>ip - Tag - GuaiFish&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>guaifish@foxmail.com (GuaiFish)</managingEditor>
+            <webMaster>guaifish@foxmail.com (GuaiFish)</webMaster><lastBuildDate>Thu, 11 Jun 2020 07:54:11 &#43;0800</lastBuildDate><atom:link href="https://guaifish.com/tags/ip/" rel="self" type="application/rss+xml" /><item>
+    <title>Ubuntu 系统设置 IP 地址</title>
+    <link>https://guaifish.com/posts/ubuntu-set-address/</link>
+    <pubDate>Thu, 11 Jun 2020 07:54:11 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://guaifish.com/posts/ubuntu-set-address/</guid>
+    <description><![CDATA[Ubuntu 面前支持新的网络配置工具 Netplan, 可通过配置 etc/netplan/ 目录下的 yaml 文件设置主机的 IP 地址 进入 netplan 目录 cd /etc/netplan 配置 yaml 文件 不一定是这个文件名, 先通过 ls 命令看一下 1 2 ls sudo]]></description>
+</item></channel>
+</rss>

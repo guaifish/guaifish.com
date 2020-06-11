@@ -2,20 +2,29 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://guaifish.com/categories/</loc><lastmod>2020-06-11T07:13:46&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://guaifish.com/categories/</loc><lastmod>2020-06-11T08:07:14&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://guaifish.com/</loc><lastmod>2020-06-11T08:07:14&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://guaifish.com/tags/ip/</loc><lastmod>2020-06-11T08:07:14&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://guaifish.com/categories/linux/</loc><lastmod>2020-06-11T08:07:14&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://guaifish.com/posts/</loc><lastmod>2020-06-11T08:07:14&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://guaifish.com/tags/</loc><lastmod>2020-06-11T08:07:14&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://guaifish.com/tags/ubuntu/</loc><lastmod>2020-06-11T08:07:14&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://guaifish.com/posts/ubuntu-set-address/</loc><lastmod>2020-06-11T08:07:14&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://guaifish.com/tags/%E8%AE%BE%E7%BD%AE%E5%9C%B0%E5%9D%80/</loc><lastmod>2020-06-11T08:07:14&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://guaifish.com/categories/docker/</loc><lastmod>2020-06-11T07:51:25&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://guaifish.com/tags/dockerhub/</loc><lastmod>2020-06-11T07:51:25&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://guaifish.com/posts/docker_push/</loc><lastmod>2020-06-11T07:51:25&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://guaifish.com/tags/%E9%95%9C%E5%83%8F/</loc><lastmod>2020-06-11T07:51:25&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://guaifish.com/tags/%E9%95%9C%E5%83%8F%E6%8F%90%E4%BA%A4/</loc><lastmod>2020-06-11T07:51:25&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://guaifish.com/tags/download/</loc><lastmod>2020-06-11T07:13:46&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://guaifish.com/</loc><lastmod>2020-06-11T07:13:46&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://guaifish.com/posts/</loc><lastmod>2020-06-11T07:13:46&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://guaifish.com/categories/python/</loc><lastmod>2020-06-11T07:13:46&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://guaifish.com/tags/requests/</loc><lastmod>2020-06-11T07:13:46&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://guaifish.com/tags/</loc><lastmod>2020-06-11T07:13:46&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://guaifish.com/tags/zipfile/</loc><lastmod>2020-06-11T07:13:46&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://guaifish.com/tags/%E4%B8%8B%E8%BD%BD%E6%96%87%E4%BB%B6/</loc><lastmod>2020-06-11T07:13:46&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://guaifish.com/posts/python_download_file/</loc><lastmod>2020-06-11T07:13:46&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://guaifish.com/tags/%E8%A7%A3%E5%8E%8B%E6%96%87%E4%BB%B6/</loc><lastmod>2020-06-11T07:13:46&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://guaifish.com/tags/git/</loc><lastmod>2020-06-11T07:13:46&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://guaifish.com/tags/gitea/</loc><lastmod>2020-06-11T07:13:46&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://guaifish.com/tags/ubuntu/</loc><lastmod>2020-06-11T07:13:46&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://guaifish.com/posts/deploy-gitea/</loc><lastmod>2020-06-11T07:13:46&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://guaifish.com/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/</loc><lastmod>2020-06-11T07:13:46&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://guaifish.com/categories/%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/</loc><lastmod>2020-06-11T07:13:46&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
@@ -33,12 +42,10 @@
             <loc>https://guaifish.com/posts/pandas-connect-database/</loc><lastmod>2020-06-09T01:08:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://guaifish.com/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/</loc><lastmod>2020-06-09T01:08:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://guaifish.com/categories/%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6/</loc><lastmod>2020-06-09T01:08:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://guaifish.com/tags/docker/</loc><lastmod>2020-06-09T01:08:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://guaifish.com/posts/docker-speed-up/</loc><lastmod>2020-06-09T01:08:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://guaifish.com/tags/%E5%8A%A0%E9%80%9F/</loc><lastmod>2020-06-09T01:08:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://guaifish.com/categories/%E5%AE%9E%E7%94%A8%E6%8A%80%E5%B7%A7/</loc><lastmod>2020-06-09T01:08:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://guaifish.com/tags/%E9%95%9C%E5%83%8F/</loc><lastmod>2020-06-09T01:08:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://guaifish.com/tags/%E9%98%BF%E9%87%8C%E4%BA%91/</loc><lastmod>2020-06-09T01:08:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://guaifish.com/posts/docker-speed-up/</loc><lastmod>2020-06-11T07:13:46&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://guaifish.com/tags/%E5%8A%A0%E9%80%9F/</loc><lastmod>2020-06-11T07:13:46&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://guaifish.com/tags/%E5%AE%9E%E7%94%A8%E6%8A%80%E5%B7%A7/</loc><lastmod>2020-06-11T07:13:46&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://guaifish.com/tags/%E9%98%BF%E9%87%8C%E4%BA%91/</loc><lastmod>2020-06-11T07:13:46&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://guaifish.com/tags/blog/</loc><lastmod>2020-06-09T01:08:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://guaifish.com/tags/hugo/</loc><lastmod>2020-06-09T01:08:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://guaifish.com/posts/hugo-build-blog/</loc><lastmod>2020-06-09T01:08:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
